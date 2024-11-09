@@ -60,12 +60,12 @@ The XGBoost model was deployed to make real-time predictions of groundwater leve
 
 # Frontend
 
-# Technologies Used
+Technologies Used
 Streamlit: Used to build the interactive user interface, enabling seamless integration with Python code for real-time predictions.
 Pandas: Used for managing and displaying input/output data.
 CSS: Custom CSS for styling elements like buttons, text, and backgrounds.
 
-# Example Workflow
+Example Workflow
 User Input: Select location, month, and precipitation using dropdowns and sliders.
 Get Predictions: Click the "Get Predictions" button to generate groundwater level and soil temperature predictions.
 Display Predictions: The predicted values are shown on the frontend.
