@@ -1,0 +1,89 @@
+Year,Month,State,Location,Water Level
+2020,Aug,Karnataka,Bangalore,13.6
+2021,Aug,Karnataka,Bangalore,11.2
+2022,Aug,Karnataka,Bangalore,8.8
+2023,Aug,Karnataka,Bangalore,14.41
+2020,Aug,West Bengal,Kolkata,10.15
+2021,Aug,West Bengal,Kolkata,9.55
+2022,Aug,West Bengal,Kolkata,8.95
+2023,Aug,West Bengal,Kolkata,10.49
+2020,Aug,Tamil Nadu,Chennai,4.8
+2021,Aug,Tamil Nadu,Chennai,3.6
+2022,Aug,Tamil Nadu,Chennai,2.4
+2023,Aug,Tamil Nadu,Chennai,1.2
+2020,Aug,Delhi,Delhi,20.97
+2021,Aug,Delhi,Delhi,21.04
+2022,Aug,Delhi,Delhi,20.69
+2023,Aug,Delhi,Delhi,15
+2020,Dec,Karnataka,Bangalore,12.8
+2021,Dec,Karnataka,Bangalore,10.4
+2022,Dec,Karnataka,Bangalore,8
+2023,Dec,Karnataka,Bangalore,15.17
+2020,Dec,West Bengal,Kolkata,9.95
+2021,Dec,West Bengal,Kolkata,9.35
+2022,Dec,West Bengal,Kolkata,8.75
+2023,Dec,West Bengal,Kolkata,10.15
+2020,Dec,Tamil Nadu,Chennai,4.4
+2021,Dec,Tamil Nadu,Chennai,3.2
+2022,Dec,Tamil Nadu,Chennai,2
+2023,Dec,Tamil Nadu,Chennai,2.95
+2020,Dec,Delhi,Delhi,20.5
+2021,Dec,Delhi,Delhi,20.2
+2022,Dec,Delhi,Delhi,20
+2023,Dec,Delhi,Delhi,6.05
+2020,Feb,Karnataka,Bangalore,14.8
+2021,Feb,Karnataka,Bangalore,12.4
+2022,Feb,Karnataka,Bangalore,10
+2023,Feb,Karnataka,Bangalore,7.6
+2024,Feb,Karnataka,Bangalore,17.33
+2020,Feb,West Bengal,Kolkata,10.45
+2021,Feb,West Bengal,Kolkata,9.85
+2022,Feb,West Bengal,Kolkata,9.25
+2023,Feb,West Bengal,Kolkata,8.65
+2024,Feb,West Bengal,Kolkata,11.34
+2020,Feb,Tamil Nadu,Chennai,5.4
+2021,Feb,Tamil Nadu,Chennai,4.2
+2022,Feb,Tamil Nadu,Chennai,3
+2023,Feb,Tamil Nadu,Chennai,1.8
+2024,Feb,Tamil Nadu,Chennai,3.2
+2020,Feb,Delhi,Delhi,14.5
+2021,Feb,Delhi,Delhi,20.3
+2022,Feb,Delhi,Delhi,16.1
+2023,Feb,Delhi,Delhi,15.6
+2024,Feb,Delhi,Delhi,6.25
+2020,May,Karnataka,Bangalore,14.2
+2021,May,Karnataka,Bangalore,11.8
+2022,May,Karnataka,Bangalore,9.4
+2023,May,Karnataka,Bangalore,13.85
+2024,May,Karnataka,Bangalore,18.1
+2020,May,West Bengal,Kolkata,10.3
+2021,May,West Bengal,Kolkata,9.7
+2022,May,West Bengal,Kolkata,9.1
+2023,May,West Bengal,Kolkata,10.4
+2024,May,West Bengal,Kolkata,10.54
+2020,May,Tamil Nadu,Chennai,5.1
+2021,May,Tamil Nadu,Chennai,3.9
+2022,May,Tamil Nadu,Chennai,2.7
+2023,May,Tamil Nadu,Chennai,1.5
+2024,May,Tamil Nadu,Chennai,2.69
+2020,May,Delhi,Delhi,14.8
+2021,May,Delhi,Delhi,20
+2022,May,Delhi,Delhi,16.34
+2023,May,Delhi,Delhi,15.3
+2024,May,Delhi,Delhi,6.89
+2020,Sep,Karnataka,Bangalore,13.4
+2021,Sep,Karnataka,Bangalore,11
+2022,Sep,Karnataka,Bangalore,8.6
+2023,Sep,Karnataka,Bangalore,16.07
+2020,Sep,West Bengal,Kolkata,10.1
+2021,Sep,West Bengal,Kolkata,9.5
+2022,Sep,West Bengal,Kolkata,8.9
+2023,Sep,West Bengal,Kolkata,10.27
+2020,Sep,Tamil Nadu,Chennai,4.7
+2021,Sep,Tamil Nadu,Chennai,3.5
+2022,Sep,Tamil Nadu,Chennai,2.3
+2023,Sep,Tamil Nadu,Chennai,1.1
+2020,Sep,Delhi,Delhi,20.8
+2021,Sep,Delhi,Delhi,20.9
+2022,Sep,Delhi,Delhi,20.5
+2023,Sep,Delhi,Delhi,5.43
