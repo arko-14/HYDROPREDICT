@@ -1,5 +1,6 @@
 # HYDROPREDICT
 Project Overview
+
 Groundwater is a critical resource that supports agriculture, drinking water, and industrial uses. The HYDROpredict project leverages environmental data to understand and forecast groundwater levels. By analyzing historical data such as temperature, precipitation, and groundwater levels, we aim to provide predictive insights that can aid in sustainable water management.
 
 Objective:-
