@@ -71,7 +71,8 @@ User Input: Select location, month, and precipitation using dropdowns and slider
 Get Predictions: Click the "Get Predictions" button to generate groundwater level and soil temperature predictions.
 Display Predictions: The predicted values are shown on the frontend.
 Save Data: Users can save the input and predictions to a CSV file.
-Usage
+
+
 Clone the repository:
 git clone https://github.com/your-username/hydropredict.git
 
