@@ -24,7 +24,7 @@ Groundwater Level Data: Historical data on groundwater levels.
 
 Climate Data: Temperature, soil moisture and precipitation records.
 
-# The project employs XGBoost for high accuracy after extensive model optimization and comparison with other models, including Random Forest and LightGBM.
+The project employs XGBoost for high accuracy after extensive model optimization and comparison with other models, including Random Forest and LightGBM.
 
 # Model Description
 Initial Model Selection
