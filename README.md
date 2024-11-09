@@ -6,7 +6,7 @@ Objective:-
 
 To explore how factors like temperature, precipitation, and seasonal changes impact groundwater levels and to create a predictive model for groundwater level trends.
 
-Key Features:-
+# Key Features:-
 
 Data Cleaning and Processing: Handles missing values, standardizes data formats, and ensures data consistency.
 
