@@ -74,7 +74,9 @@ Save Data: Users can save the input and predictions to a CSV file.
 Usage
 Clone the repository:
 git clone https://github.com/your-username/hydropredict.git
+
 # Install required dependencies:
+
 pip install -r requirements.txt
 Run the Streamlit app:
 streamlit run app.py
