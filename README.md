@@ -67,9 +67,15 @@ Pandas: Used for managing and displaying input/output data.
 CSS: Custom CSS for styling elements like buttons, text, and backgrounds.
 
 Example Workflow
-User Input: Select location, month, and precipitation using dropdowns and sliders.
+
+User Input:
+
+Select location, month, and precipitation using dropdowns and sliders.
+
 Get Predictions: Click the "Get Predictions" button to generate groundwater level and soil temperature predictions.
+
 Display Predictions: The predicted values are shown on the frontend.
+
 Save Data: Users can save the input and predictions to a CSV file.
 
 
