@@ -78,7 +78,7 @@ git clone https://github.com/your-username/hydropredict.git
 
 # Install required dependencies:
 
-pip install -r requirements.txt
+pip install streamlit
 
 Run the Streamlit app:
 
